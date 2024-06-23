@@ -1,3 +1,2 @@
 # Plant-disease-prediction
-This is first repository
-This is my first commit
+This repository is about building an Image classifier CNN with Python on Plant Disease Prediction.
